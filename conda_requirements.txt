@@ -1,0 +1,10 @@
+gensim
+nltk
+unidecode
+statsmodels
+matplotlib
+statsmodels
+scikit-learn
+numpy
+pandas
+scipy
